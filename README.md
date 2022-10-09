@@ -63,7 +63,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3> Kinh Nghiệm Làm Việc : </h3> 
-<p> - Đang Làm Việc Cho 55 Tập Đoàn Hàng Đầu Thế Giới </p>
+<p> - Đang Làm Việc Cho 5 Tập Đoàn Hàng Đầu Thế Giới </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
