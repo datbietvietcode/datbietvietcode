@@ -68,7 +68,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <a>
-<img src="https://img.icons8.com/nolan/64/facebook-new.png"/> FaceBook : Marketing Specialist 
+<img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-facebook-social-media-justicon-lineal-color-justicon.png"/>FaceBook : Marketing Specialist 
 
 - Founder & CEO của một chiến dịch tạo dựng thương hiệu cá nhân, bằng cách búp bẩn lên facebook cá nhân một triệu follow .
 - Nhận được hàng chục huy hiệu " Fan Cứng " từ các Fanpage mỗi tuần .
