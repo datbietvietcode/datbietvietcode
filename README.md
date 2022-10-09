@@ -63,7 +63,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3> Kinh Nghiệm Làm Việc : </h3> 
-<p> - Đang Làm Việc Cho 4 Tập Đoàn Hàng Đầu Thế Giới </p>
+<p> - Đang Làm Việc Cho 55 Tập Đoàn Hàng Đầu Thế Giới </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -106,6 +106,15 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<a> 
+<img src="https://img.icons8.com/clouds/100/000000/tiktok.png"/>  Tik Tok : Viewer + Idol Tóp Tóp 
+
+- Xem 181 phút mỗi ngày 
+- Đổi avatar và tên thành con gái, lấy video gái xinh đăng và lừa được hơn 700 thằng mê gái follow .
+- Bê sản phẩm từ cửa hàng của người khác về cửa hàng của mình để mở shop .
+</a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
