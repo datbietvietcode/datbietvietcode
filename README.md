@@ -62,3 +62,50 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<h3> Kinh Nghiệm Làm Việc : </h3> 
+<p> - Đang Làm Việc Cho 4 Tập Đoàn Hàng Đầu Thế Giới </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<a>
+<img src="https://img.icons8.com/nolan/64/facebook-new.png"/> FaceBook : Marketing Specialist 
+
+- Founder & CEO của một chiến dịch tạo dựng thương hiệu cá nhân, bằng cách búp bẩn lên facebook cá nhân một triệu follow .
+- Nhận được hàng chục huy hiệu " Fan Cứng " từ các Fanpage mỗi tuần .
+- Có thể kiếm 100k vnd mỗi ngày nhờ việc lùa gà bán like follow .
+</a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<a> 
+<img src="https://img.icons8.com/officel/64/000000/google-logo.png"/> Google : Senior software engineer
+
+- Đưa tính năng AI - trí tuệ nhân tạo vào đời sống, bằng cách sử dụng " OK Google " để điều kiển tivi . 
+- Quản lý, vận hành hiệu quả hệ thống dữ liệu Google, chưa bao giờ để Google Drive vượt quá 80% lưu lượng .
+- Có trách nhiệm và độ khắt khe cao trong việc kiểm duyệt nội dung của Google Photo, không để bất cứ tấm ảnh nào trùng nhau .
+</a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<a>
+<img src="https://img.icons8.com/color/64/000000/microsoft.png"/> Microsoft : Hardware engineer & Cyber security 
+
+- Khắc phục các sự cố liên quan đến phần cứng, phần mềm máy tính bằng cách đem máy tính đi bảo hành .
+- Đưa ra các giải pháp và triển khai hiệu quả các sự cố về internet không dây bằng cách khởi động lại modem . 
+</a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<a>
+<img src="https://img.icons8.com/stickers/100/000000/netflix.png"/> Chief Financial Officer & Marketing 
+
+- Quản lý, vận hành tài khoản Netflix trong nhiều năm cho 6 người sử dụng .
+- Báo cáo tài chính minh bạch và đối soát dòng tiền ổn định của 5 người, đảm bảo lợi nhuận 10-20% mỗi tháng .
+- Triển khai hiệu quả các chiến dịch PR các sản phẩm của Netflix bằng mồm .
+</a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+
