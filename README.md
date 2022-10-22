@@ -58,6 +58,8 @@
 
 
 <span>[<img src="https://github-readme-stats.vercel.app/api?username=datbietvietcode&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=datbietvietcode)</span>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <span>[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datbietvietcode&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=datbietvietcode)</span>
 
 
