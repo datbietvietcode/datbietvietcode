@@ -6,7 +6,7 @@
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=<3+I'm+Nguyen+The+Dat+<3;<3+I'm+a+Full+Stack+Developer+<3;<3+I'm+From+HaNoi+VietNam+<3;"></p>
 
 - 👋 Hi, I’m @datbietvietcode
-- 👀 I’m interested in ...? 
+- 👀 I’m interested in ....? 
 - 🌱 I’m currently learning https://fullstack.edu.vn/
 
 
