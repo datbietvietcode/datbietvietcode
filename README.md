@@ -3,7 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=<3+I'm+Nguyen+The+Dat+<3;<3+I'm+a+Full+Stack+Developer+<3;<3+I'm+From+HaNoi+VietNam+<3;"></p>
+<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=<3+I'm+Nguyen+The+Dat+<3;<3+I'm+a+S+t+u+d+e+n+t+<3;<3+I'm+a+Full+Stack+Developer+<3;<3+I'm+From+HaNoi+VietNam+<3;"></p>
 
 - 👋 Hi, I’m @datbietvietcode
 - 🌱 I’m currently learning https://fullstack.edu.vn/
