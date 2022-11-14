@@ -10,7 +10,8 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- 📫 Connect With Me :
+
+### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> Connect With Me :
 
 [![Join the chat at https://gitter.im/datbietvietcode/Github-Profile-Tutorial](https://badges.gitter.im/datbietvietcode/Github-Profile-Tutorial.svg)](https://gitter.im/datbietvietcode/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -26,18 +27,12 @@
 
 
 
-### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
-
-
-<span>[<img src="https://github-readme-stats.vercel.app/api?username=datbietvietcode&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=datbietvietcode)</span>
-<span>[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datbietvietcode&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=datbietvietcode)</span>
 
 
 
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
