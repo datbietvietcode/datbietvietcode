@@ -5,7 +5,7 @@
 
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=<3+I'm+Nguyen+The+Dat+<3;<3+I'm+a+S+t+u+d+e+n+t+<3;<3+<3+<3+<3+<3+<3+<3+<3+<3+<3+<3+<3+<3+<3+<3+<3;<3+I'm+From+HaNoi+VietNam+<3;"></p>
 
-- 👋 Hi, I’m @datbietvietcode
+- 👋 Hi, I’m @datbietvietcode . 
 - 🌱 I’m currently learning https://fullstack.edu.vn/
 
 
