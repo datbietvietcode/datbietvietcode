@@ -1,9 +1,9 @@
-### Hi there, I'm Nguyễn Thế Đạt .  ✔️
+### Hi there, I'm Nguyễn Thế Đạt . ✔️
 > [![View count](https://visitcount.itsvg.in/api?id=datbietvietcodecolor=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=datbietvidetcode)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=<3+I'm+Nguyen+The+Dat+<3;<3+I'm+a+S+t+u+d+e+n+t+<3;<3+<3+<3+<3+<3+<3+<3+<3+<3+<3+<3+<3+<3+<3+<3+<3;<3+I'm+From+HaNoi+VietNam+<3;"></p>
+<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=<3+I'm+N+g+u+y+e+n+T+h+e+D+a+t+<3;<3+I'm+a+S+t+u+d+e+n+t+<3;<3+<3+<3+<3+<3+<3+<3+<3+<3+<3+<3+<3+<3+<3+<3+<3;<3+I'm+F+r+o+m+H+a+N+o+i+V+i+e+tN+a+m+<3;"></p>
 
 - 👋 Hi, I’m @datbietvietcode .  
 - 🌱 I’m currently learning https://fullstack.edu.vn/
@@ -26,7 +26,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-
+<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=<3+<3+<3+t+h+e+|+e+n+d+<3+<3+<3+.;<3+<3+<3+g+o+o+d+b+y+e+<3+<3+<3"></p>
 
 
 
